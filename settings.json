@@ -1,0 +1,38 @@
+{
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.overviewRulerBorder": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "color-highlight.markRuler": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "explorer.openEditors.visible": 0,
+    "explorer.decorations.colors": false,
+    "editor.bracketPairColorization.enabled": false,
+    "editor.guides.highlightActiveBracketPair": false,
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.guides.indentation": false,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.renderLineHighlight": "none",
+    "editor.glyphMargin": false,
+    "editor.lineNumbers": "on",
+    "editor.showFoldingControls": "never",
+    "window.menuBarVisibility": "toggle",
+    "workbench.layoutControl.type": "menu",
+
+
+    "python.analysis.extraPaths": [
+        "/opt/homebrew/lib/python3.11/site-packages"
+    ],
+    "workbench.activityBar.location": "hidden",
+    "editor.fontSize": 16,
+    "git.openRepositoryInParentFolders": "never",
+    "python.defaultInterpreterPath": "/opt/homebrew/bin/python3.11",
+    "breadcrumbs.enabled": false,
+    "editor.fontFamily": "Monocraft"
+}
